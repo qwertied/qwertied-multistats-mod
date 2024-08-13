@@ -1,6 +1,6 @@
 ```
-qwertied
-    - player nickname = "qwertied"
+jomapel
+    - player nickname = "jomapel"
     - player ID = "1"
     - hours played = "111"
 ```
