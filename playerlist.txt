@@ -1,5 +1,5 @@
 ---
-    - player nickname = "qwertied"
+    - player nickname = "jomapel"
     - player ID = "1"
     - hours played = "111.2"
 ---
