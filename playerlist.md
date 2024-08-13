@@ -1,8 +1,11 @@
 ---
-qwertied
     - player nickname = "qwertied"
     - player ID = "1"
-    - hours played = "0,02"
-    - total hours played = "0,02"
+    - hours played = "111.2"
 ---
 
+---
+    - player nickname
+    - player ID = ""
+    - hours played = ""
+---
